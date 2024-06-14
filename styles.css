@@ -1,10 +1,13 @@
 body {
   background: 
     linear-gradient(#0007, #0000),
-    #123;
+    #7da6cf;
   margin: 0;
   height: 100vh;
   overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 @keyframes firework {
